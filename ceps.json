@@ -1,0 +1,23 @@
+[{
+  "cep": "26051-710",
+  "logradouro": "Rua do Sapé",
+  "complemento": "",
+  "bairro": "Vila de Cava",
+  "localidade": "Nova Iguaçu",
+  "uf": "RJ",
+  "ibge": "3303500",
+  "gia": "",
+  "ddd": "21",
+  "siafi": "5869"
+}, {
+  "cep": "13107-040",
+  "logradouro": "Rua José Teixeira Pinto",
+  "complemento": "",
+  "bairro": "Jardim Belmonte (Sousas)",
+  "localidade": "Campinas",
+  "uf": "SP",
+  "ibge": "3509502",
+  "gia": "2446",
+  "ddd": "19",
+  "siafi": "6291"
+}]
